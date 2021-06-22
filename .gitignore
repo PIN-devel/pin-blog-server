@@ -1,0 +1,13 @@
+venv/
+
+db.sqlite3
+db.sqlite3-journal
+
+secrets.json
+
+*.log
+*.pot
+*.pyc
+__pycache__/
+
+media
